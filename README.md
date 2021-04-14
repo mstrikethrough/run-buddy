@@ -1,4 +1,4 @@
-# Run Buddy
+# Run Buddy, Inc
 
 ## Purpose
 A website that offers fitness training services.
@@ -12,3 +12,5 @@ https://mstrikethrough.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Andrew Avila
+
+### ©️2021 Run Buddy, Inc
